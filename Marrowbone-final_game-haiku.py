@@ -1,4 +1,4 @@
-#easter egg/side quest
+# Marrowbone Island: with easter egg & side quest
 
 import random
 import time

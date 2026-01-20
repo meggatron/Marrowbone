@@ -1,5 +1,4 @@
-#nested logic
-#operators
+# Marrowbone Island
 
 import random
 import time
